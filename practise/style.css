@@ -17,7 +17,9 @@ h1 {
   text-align-last: center;
 }
 
-table, th, td {
+table,
+th,
+td {
   border: 2px solid;
   width: 50%;
   border-collapse: collapse; /* collapses the individual borders to one */
