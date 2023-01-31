@@ -16,3 +16,13 @@ h1 {
   outline-offset: 10px;
   text-align-last: center;
 }
+
+table, th, td {
+  border: 2px solid;
+  width: 50%;
+  border-collapse: collapse; /* collapses the individual borders to one */
+}
+
+tr:hover {
+  background-color: blue;
+}
