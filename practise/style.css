@@ -69,3 +69,9 @@ tr:hover {
 .dropdown:hover .dropdownButton {
   background-color: lightcoral;
 }
+
+/* absolute selector example */
+
+div[class="test"] {
+  color: red;
+}
